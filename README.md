@@ -7,6 +7,9 @@ Make a site
 
 Install 
 https://pypi.org/project/qrcode/ 
+
 Then just type following in command line: 
+
 <code>qr "https://YOUR-REPO-URL" > qr.png </code>
+
 And it makes a QR code for your link. 
