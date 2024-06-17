@@ -6,14 +6,13 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #004d4d;
+  background-color: #00313b;
   /* Deep teal background */
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
-  color: #fff;
-  /* Ensure text is readable on teal background */
+  color: #ffedfb;
 }
 
 .container {
